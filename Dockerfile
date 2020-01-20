@@ -1,4 +1,4 @@
-FROM ubuntu:16.04
+FROM ubuntu:18.04
 MAINTAINER Mateusz Duda <the_pro@wp.pl>
 
 RUN apt-get update
